@@ -31,7 +31,7 @@ I am a passionate Data Engineer with experience in developing scalable data pipe
 
 **Tech Stack:** Python, TensorFlow/Keras, OpenCV, Pandas, Numpy, PyTorch, torchvision, matplotlib, numpy
 
-### [Ford-Fulkerson Simulation with Various Augmenting Algorithms]([https://github.com/yourusername/project3](https://github.com/mehtavandit/ALGO-Project))
+### [Ford-Fulkerson Simulation with Various Augmenting Algorithms](https://github.com/mehtavandit/ALGO-Project))
 **Description:** This project implements a simulation of the Ford-Fulkerson algorithm for maximum flow in a network. The simulation includes the use of different augmenting path algorithms such as Shortest Augmenting Path (SAP), Depth-First Search (DFS), Maximum Capacity (MaxCap), and a Random augmenting path algorithm. The goal is to analyze the performance of these algorithms under varying graph conditions and provide insights into their efficiency and characteristics.
 
 Tech Stack: Python, csv, random, heapq, time, collections, math
