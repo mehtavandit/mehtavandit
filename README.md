@@ -10,7 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Data Engineer with experience in developing scalable data pipelines and implementing machine learning solutions. Currently pursuing a Master’s in Applied Computer Science at Concordia University, I am dedicated to transform raw data into valuable insights.
+I am Vandit Mehta, an ambitious and highly motivated individual with a passion for leveraging technology to solve complex problems. Currently pursuing my Master's in Applied Computer Science at Concordia University, I am also learning big data in an 8-month program by TrendyTech. I have honed my skills across various domains, achieving a CGPA of 3.7/4.3.
+
+My proficiency spans diverse programming languages including Python, Java, C, C++, SQL, HTML, CSS, JavaScript, and PHP. I have a solid understanding of frameworks such as Git, Bash Scripting, Pandas, Flask, Django, Matplotlib, Pyspark, and Scikit-Learn. Additionally, I have experience with databases like MySQL, MongoDB, AWS DynamoDB, and PostgreSQL. My grasp of object-oriented concepts, data structures, and algorithms, coupled with a commitment to best programming practices, enables me to tackle complex challenges and maintain clean code.
+
+In the ever-evolving data field, I have explored ETL processes, data integration, and using data to train algorithms for predictions or decision-making. If you're seeking a committed individual with a background in software development and a passion for data science and machine learning, let's connect to discuss how we can collaborate on cutting-edge solutions.
 
 ---
 
