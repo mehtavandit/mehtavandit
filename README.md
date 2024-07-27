@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vandit Mehta!
 
-**Data Engineer | Machine Learning Enthusiast**
+**Software Developer | Data Engineering Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vandit-mehta-b432361a9/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:contact.vanditmehta@gmail.com)
