@@ -70,7 +70,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 
 ## 📝 Blog Posts
 
-- [Title of Blog Post 1](https://yourblog.com/post1)
+- [Pyspark Scenario Based Real Time Questions]([https://yourblog.com/post1](https://www.linkedin.com/pulse/pyspark-scenario-based-realtime-questions-vandit-mehta-lsgke/?trackingId=7oWZTAskQHm30Blbmya7dQ%3D%3D))
 - [Title of Blog Post 2](https://yourblog.com/post2)
 - [Title of Blog Post 3](https://yourblog.com/post3)
 
