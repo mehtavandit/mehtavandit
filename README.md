@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Data Engineer with experience in developing scalable data pipelines and implementing machine learning solutions. Currently pursuing a Master’s in Applied Computer Science at Concordia University, I am dedicated to transforming raw data into valuable insights.
+I am a passionate Data Engineer with experience in developing scalable data pipelines and implementing machine learning solutions. Currently pursuing a Master’s in Applied Computer Science at Concordia University, I am dedicated to transform raw data into valuable insights.
 
 ---
 
@@ -55,7 +55,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 
 ## 📈 GitHub Stats
 
-![Vandit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Vandit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtavandit&show_icons=true&hide_border=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
