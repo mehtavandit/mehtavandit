@@ -57,7 +57,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 
 ![Vandit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtavandit&show_icons=true&hide_border=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtavandit&layout=compact&theme=radical)
 
 ---
 
