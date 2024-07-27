@@ -31,6 +31,11 @@ I am a passionate Data Engineer with experience in developing scalable data pipe
 
 **Tech Stack:** Python, TensorFlow/Keras, OpenCV, Pandas, Numpy, PyTorch, torchvision, matplotlib, numpy
 
+### [Architecting Scalable Distributed Systems: Leveraging AWS EKS, S3, Amazon ECR, Docker, and Kubernetes](https://github.com/JSM2512/Distributed_System_Design_Final_Project)
+**Description:** n this project, we dive into the principles and practices of distributed system design, utilizing a suite of advanced technologies to build and manage scalable, reliable, and efficient systems. Our approach leverages Amazon Web Services (AWS) tools, containerization with Docker, and Kubernetes orchestration to demonstrate key concepts in the field.
+
+**Tech Stack:** Python, Pandas, Boto3, Pandas, AWS EKS, AWS S3, AWS ECR, Docker, Kubernetes
+
 ### [Ford-Fulkerson Simulation with Various Augmenting Algorithms](https://github.com/mehtavandit/ALGO-Project)
 **Description:** This project implements a simulation of the Ford-Fulkerson algorithm for maximum flow in a network. The simulation includes the use of different augmenting path algorithms such as Shortest Augmenting Path (SAP), Depth-First Search (DFS), Maximum Capacity (MaxCap), and a Random augmenting path algorithm. The goal is to analyze the performance of these algorithms under varying graph conditions and provide insights into their efficiency and characteristics.
 
