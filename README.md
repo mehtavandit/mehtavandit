@@ -78,21 +78,18 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 ## 📜 Certifications
 
 - [BigData](https://www.linkedin.com/feed/update/urn:li:activity:7219429914838474756/) - TrendyTech
-- [Certification Name 2](https://linktocertification.com) - Issuing Organization
 
 ---
 
 ## 📄 Resume
 
-You can check out my resume [here](https://linktoresume.com).
+You can check out my resume [here](https://drive.google.com/drive/u/5/folders/1keFup4iW9-uq8_Pr5GojqjwY1kKoPyaF).
 
 ---
 
-## 🏅 Achievements & Awards
+##  Publications
 
-- Award/Achievement 1
-- Award/Achievement 2
-- Award/Achievement 3
+- [A Survey on Automatic Text Summarization](https://www.irjet.net/archives/V9/i3/IRJET-V9I3155.pdf)
 
 ---
 
