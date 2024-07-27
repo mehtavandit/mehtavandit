@@ -26,12 +26,12 @@ I am a passionate Data Engineer with experience in developing scalable data pipe
 
 ## 🚀 Projects
 
-### [Pneumonia Detection using Chest X-Rays leveraging CNNs]([https://github.com/yourusername/project3](https://github.com/mehtavandit/COMP6721-GroupP))
+### [Pneumonia Detection using Chest X-Rays leveraging CNNs](https://github.com/mehtavandit/COMP6721-GroupP)
 **Description:** This project aims to detect and classify pneumonia using chest X-rays through Convolutional Neural Networks (CNNs). The goal is to improve pneumonia diagnosis, especially in resource-constrained healthcare settings, where accurate and timely diagnosis is crucial.
 
 **Tech Stack:** Python, TensorFlow/Keras, OpenCV, Pandas, Numpy, PyTorch, torchvision, matplotlib, numpy
 
-### [Ford-Fulkerson Simulation with Various Augmenting Algorithms](https://github.com/mehtavandit/ALGO-Project))
+### [Ford-Fulkerson Simulation with Various Augmenting Algorithms](https://github.com/mehtavandit/ALGO-Project)
 **Description:** This project implements a simulation of the Ford-Fulkerson algorithm for maximum flow in a network. The simulation includes the use of different augmenting path algorithms such as Shortest Augmenting Path (SAP), Depth-First Search (DFS), Maximum Capacity (MaxCap), and a Random augmenting path algorithm. The goal is to analyze the performance of these algorithms under varying graph conditions and provide insights into their efficiency and characteristics.
 
 Tech Stack: Python, csv, random, heapq, time, collections, math
@@ -41,7 +41,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 
 **Tech Stack:** Python, AWS, Streamlit, Pycaret, RDkit, MySQL, Pandas, Numpy
 
-### [Attendance System Using Facial Recognition]([https://github.com/yourusername/project2](https://github.com/mehtavandit/Attendance-Face-Detection))
+### [Attendance System Using Facial Recognition](https://github.com/mehtavandit/Attendance-Face-Detection)
 **Description:** Engineered a user-friendly application that integrates with a facial recognition system, providing real-time attendance data and comprehensive reporting features, minimizing the spread of coronavirus during the pandemic.
 
 **Tech Stack:** Python, OpenCV, Dlib, Tkinter, Face detection libraries
