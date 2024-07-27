@@ -71,8 +71,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 ## 📝 Blog Posts
 
 - [Pyspark Scenario Based Real Time Questions](https://www.linkedin.com/pulse/pyspark-scenario-based-realtime-questions-vandit-mehta-lsgke/?trackingId=7oWZTAskQHm30Blbmya7dQ%3D%3D)
-- [Title of Blog Post 2](https://yourblog.com/post2)
-- [Title of Blog Post 3](https://yourblog.com/post3)
+- [Distributed file storage and object-based file storage systems](https://www.linkedin.com/pulse/difference-between-distributed-file-storage-systems-vandit-mehta-agbde/?trackingId=MHX%2B2r350T%2ByrRpyOFoOwg%3D%3D)
 
 ---
 
