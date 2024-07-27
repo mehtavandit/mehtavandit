@@ -77,7 +77,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 
 ## 📜 Certifications
 
-- [Certification Name 1](https://linktocertification.com) - Issuing Organization
+- [BigData](https://www.linkedin.com/feed/update/urn:li:activity:7219429914838474756/) - TrendyTech
 - [Certification Name 2](https://linktocertification.com) - Issuing Organization
 
 ---
