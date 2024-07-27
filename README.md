@@ -64,7 +64,7 @@ Tech Stack: Python, csv, random, heapq, time, collections, math
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [Vandit Mehta](https://www.linkedin.com/in/vandit-mehta-b432361a9/)
-- **Email:** [mehtavandit2205@gmail.com](mailto:contact.vanditmehta@gmail.com)
+- **Email:** [contact.vanditmehta@gmail](mailto:contact.vanditmehta@gmail.com)
 
 ---
 
