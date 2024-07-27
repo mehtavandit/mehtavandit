@@ -26,33 +26,22 @@ I am a passionate Data Engineer with experience in developing scalable data pipe
 
 ## 🚀 Projects
 
-### [Pneumonia Detection using Chest X-Rays leveraging CNNs](https://github.com/yourusername/project3)
+### [Pneumonia Detection using Chest X-Rays leveraging CNNs]([https://github.com/yourusername/project3](https://github.com/mehtavandit/COMP6721-GroupP))
 **Description:** This project aims to detect and classify pneumonia using chest X-rays through Convolutional Neural Networks (CNNs). The goal is to improve pneumonia diagnosis, especially in resource-constrained healthcare settings, where accurate and timely diagnosis is crucial.
 
-**Introduction:** Pneumonia is a prevalent respiratory infection, often requiring chest X-rays for diagnosis. However, skilled interpretation and resource shortages can lead to delays in diagnosis and treatment. This project explores using CNNs for automated pneumonia detection.
+**Tech Stack:** Python, TensorFlow/Keras, OpenCV, Pandas, Numpy, PyTorch, torchvision, matplotlib, numpy
 
-**Methodology:**
-- **Datasets:** 
-  - Chest X-ray Images (Pneumonia) by Paul Mooney (2018)
-  - COVID-19 X-ray (2 proposed databases) by Edoardo Vantaggiato (2020)
-  - NIH Chest X-rays by National Institutes of Health (NIH) (2017)
-- **CNN Models:** ResNet18, DenseNet121, InceptionV3
-- **Optimization Algorithm:** Stochastic Gradient Descent (SGD) optimizer with a learning rate of 0.001, batch size of 30, and cross-entropy loss function.
+### [Ford-Fulkerson Simulation with Various Augmenting Algorithms]([https://github.com/yourusername/project3](https://github.com/mehtavandit/ALGO-Project))
+**Description:** This project implements a simulation of the Ford-Fulkerson algorithm for maximum flow in a network. The simulation includes the use of different augmenting path algorithms such as Shortest Augmenting Path (SAP), Depth-First Search (DFS), Maximum Capacity (MaxCap), and a Random augmenting path algorithm. The goal is to analyze the performance of these algorithms under varying graph conditions and provide insights into their efficiency and characteristics.
 
-**Evaluation Metrics:** Accuracy, Precision, Recall, F1-score
-
-**Results:** InceptionV3 consistently outperformed ResNet-18 and DenseNet-121 across all datasets. Higher accuracy and metric scores were observed with fewer classes, suggesting simpler tasks facilitate better feature learning.
-
-**Conclusion:** InceptionV3 showed robust learning and generalization capabilities across datasets. However, its computational complexity poses challenges for resource-constrained environments.
-
-**Tech Stack:** Python, TensorFlow/Keras, OpenCV, Pandas, Numpy
+Tech Stack: Python, csv, random, heapq, time, collections, math
 
 ### [Drug Target Interaction and Water Solubility Models](https://github.com/yourusername/project1)
 **Description:** Computation prediction of drug target interaction (DTI) and its solubility in water is vital for drug discovery. This project implements a research paper, "Estimating Aqueous Solubility Directly from Molecular Structure," by John S. Delaney.
 
 **Tech Stack:** Python, AWS, Streamlit, Pycaret, RDkit, MySQL, Pandas, Numpy
 
-### [Attendance System Using Facial Recognition](https://github.com/yourusername/project2)
+### [Attendance System Using Facial Recognition]([https://github.com/yourusername/project2](https://github.com/mehtavandit/Attendance-Face-Detection))
 **Description:** Engineered a user-friendly application that integrates with a facial recognition system, providing real-time attendance data and comprehensive reporting features, minimizing the spread of coronavirus during the pandemic.
 
 **Tech Stack:** Python, OpenCV, Dlib, Tkinter, Face detection libraries
@@ -70,7 +59,7 @@ I am a passionate Data Engineer with experience in developing scalable data pipe
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [Vandit Mehta](https://www.linkedin.com/in/vandit-mehta-b432361a9/)
-- **Email:** [mehtavandit2205@gmail.com](mailto:mehtavandit2205@gmail.com)
+- **Email:** [mehtavandit2205@gmail.com](mailto:contact.vanditmehta@gmail.com)
 
 ---
 
