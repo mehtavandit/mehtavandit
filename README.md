@@ -107,9 +107,8 @@ I am always open to interesting projects and collaborations. Feel free to reach 
 
 Currently exploring:
 
-- New Technology 1
-- New Technology 2
-- New Technology 3
+- **Big Data Technologies**: Delving into various tools and frameworks for processing and analyzing large datasets.
+- **Advanced Data Engineering Techniques**: Gaining insights into scalable data pipeline architectures and optimization strategies.
 
 ---
 
